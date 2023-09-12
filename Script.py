@@ -8,7 +8,7 @@ class script(object):
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
-‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/cinewood_support_bot>CineWoodᵇᵒᵗ 🇮🇳</a>
+ ‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/cinewood_support_bot>CineWood 🇮🇳</a>
  ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/cinewood_1'>CineWood 🇮🇳</a>     
  ‣ ᴄᴏɴᴛᴀᴄᴛ : @cinewood_1</b>"""
 
