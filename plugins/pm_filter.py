@@ -1574,6 +1574,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "shortlink_info":
             btn = [[
                 InlineKeyboardButton("👇Select Your Language 👇", callback_data="laninfo")
+        ], [
                 
 ➪  𝐒𝐢𝐥𝐯𝐞𝐫 𝐏𝐥𝐚𝐧 🖤
 
