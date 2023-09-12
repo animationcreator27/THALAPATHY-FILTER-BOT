@@ -1576,7 +1576,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton("👇Select Your Language 👇", callback_data="laninfo")
         ], [
                 
-➪  𝐒𝐢𝐥𝐯𝐞𝐫 𝐏𝐥𝐚𝐧 🖤
+➪  𝐒𝐢𝐥𝐯𝐞𝐫 𝐏𝐥𝐚𝐧 🖤 """
 
 ⇒ ғɪxᴇᴅ ᴘʀɪᴄᴇ : ₹40/-
 ⇒ ᴠᴀʟɪᴅɪᴛʏ : 1 Month
@@ -1613,7 +1613,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
 👇🄲🄾🄽🅃🄴🄲🅃 🄷🄴🅁🄴👇
 
-@cinewood_1 @cinewood_support_bot
+@cinewood_1 """
             InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start")
 
             ]]
