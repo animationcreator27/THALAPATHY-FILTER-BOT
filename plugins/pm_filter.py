@@ -1573,7 +1573,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "shortlink_info":
             btn = [[
-                InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="telegram.me/its_me_TG")
+                InlineKeyboardButton("𝐂𝐨𝐧𝐭𝐚𝐜𝐭", url="telegram.me/cinewood_1")
         ], [
             InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start")
 
