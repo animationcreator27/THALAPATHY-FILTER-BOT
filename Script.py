@@ -13,14 +13,12 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
  ‣ ᴄᴏɴᴛᴀᴄᴛ : @cinewood_support_bot</b>"""
 
     SOURCE_TXT = """
-<b>Hᴇʏ, Tʜɪs ɪs ᴀ Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
+<b>🔘 ᴀʟʟ ʟᴀᴛᴇsᴛ ᴍᴏᴠɪᴇs ᴀʀᴇ ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛʜɪs ᴄʜᴀɴɴᴇʟ 🔘
 
-Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛᴜʀᴇs⚡️
-
-ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ 🎬 - <a href='https://t.me/how_to_download_movie_shrslink'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
+🎬 ʟᴀᴛᴇsᴛ ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ - <a href='https://t.me/+KffNbYlF1_diNzRl'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
 
 
-ᴅᴇᴠᴇʟᴏᴘᴇʀ - <a href='https://t.me/cinewood_1'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+🎬 ʟᴀᴛᴇsᴛ ᴍᴏᴠɪᴇs ɢʀᴏᴜᴘ - <a href='https://t.me/+qjqcZBVZk4NmNzg1'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
 
 
