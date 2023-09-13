@@ -17,7 +17,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
 Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛᴜʀᴇs⚡️
 
-Join Updates Channel 👉 - <a href='https://t.me/how_to_download_movie_shrslink'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
+ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ 🎬 - <a href='https://t.me/how_to_download_movie_shrslink'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
 
 
 Developer - <a href='https://t.me/cinewood_1'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
