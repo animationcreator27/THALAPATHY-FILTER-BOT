@@ -55,7 +55,7 @@ async def start(client, message):
                 ],[
                   InlineKeyboardButton('🎬 Lᴀᴛᴇsᴛ Mᴏᴠɪᴇs Cʜᴀɴɴᴇʟ 🎬', callback_data='source')
                 ],[
-                    InlineKeyboardButton('🎬 Lᴀᴛᴇsᴛ Mᴏᴠɪᴇs Cʜᴀɴɴᴇʟ 🎬', url="t.me/cinewood_support_bot")
+                    InlineKeyboardButton('🆘 𝐂𝐢𝐧𝐞𝐖𝐨𝐨𝐝 𝐇𝐞𝐥𝐩 𝐂𝐞𝐧𝐭𝐞𝐫 🆘', url="t.me/cinewood_support_bot")
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         m=await message.reply_sticker("CAACAgUAAxkBAAEBr7Nk3c77_sE4nPX2-SODRstN4rxtJAACBAADwSQxMYnlHW4Ls8gQHgQ") 
