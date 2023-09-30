@@ -214,11 +214,28 @@ Nᴀᴍᴇ - {}"""
 ɪꜰ ʏᴏᴜ ᴅᴏ ɴᴏᴛ ꜱᴇᴇ ᴛʜᴇ ʀᴇǫᴜᴇsᴛᴇᴅ ᴍᴏᴠɪᴇ / sᴇʀɪᴇs ꜰɪʟᴇ, ʟᴏᴏᴋ ᴀᴛ ᴛʜᴇ ɴᴇxᴛ ᴘᴀɢᴇ"""
 
     SELECT = """
-MOVIES ➢ Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs"
+🤫 𝙈𝙤𝙫𝙞𝙚 𝙎𝙚𝙖𝙧𝙘𝙝𝙞𝙣𝙜 𝙍𝙪𝙡𝙚𝙨 🔎
 
-SERIES ➢ Sᴇʟᴇᴄᴛ "Sᴇᴀsᴏɴs"
+ɢᴜʏꜱ, ʏᴏᴜ ʜᴀᴠᴇ ᴛᴏ ʀᴇǫᴜᴇꜱᴛ ᴍᴏᴠɪᴇꜱ & ᴡᴇʙꜱᴇʀɪᴇꜱ ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ ʟɪᴋᴇ ᴛʜɪꜱ....
 
-Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛᴏɴ ᴀɴᴅ Cʟɪᴄᴋ "Sᴇɴᴅ Aʟʟ" Tᴏ ɢᴇᴛ Aʟʟ Fɪʟᴇ Lɪɴᴋs ɪɴ ᴀ Sɪɴɢʟᴇ ᴄʟɪᴄᴋ"""
+⬇️⬇️ 𝙀𝙓𝘼𝙈𝙋𝙇𝙀𝙎 ⬇️⬇️
+
+🄵🄾🅁 🄼🄾🅅🄸🄴🅂 🎥🎥🎥
+
+Jailer 2023 ✅
+Jailer hindi ✅
+Jailar in Hindi hd ❌
+Jailer hindi dubbed ❌
+
+🄵🄾🅁 🅆🄴🄱🅂🄴🅁🄸🄴🅂 🎬🎬
+
+Guns & Gulaabs S01E01 ✅
+Guns & Gulaabs S01 hindi ✅
+Guns & Gulaabs all season ❌
+Guns & Gulaabs season 1 ❌
+
+
+𝙉𝙊𝙏𝙀:-  ʏᴏᴜ ʜᴀᴠᴇ ᴛᴏ ꜰɪʀꜱᴛ ɢᴏᴏɢʟᴇ ᴛʜᴇ ꜱᴘᴇʟʟɪɴɢ ᴏꜰ ᴛʜᴇ ᴍᴏᴠɪᴇ ɴᴀᴍᴇ ᴀɴᴅ ᴛʜᴇɴ ꜱᴇɴᴅ ɪᴛ ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ ᴡɪᴛʜᴏᴜᴛ :';_"?/-"""
 
     SINFO = """
 🫣 You will get your movie only when you join our backup channel😅"""
