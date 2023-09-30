@@ -232,10 +232,7 @@ Jailer hindi dubbed ❌
 Guns & Gulaabs S01E01 ✅
 Guns & Gulaabs S01 hindi ✅
 Guns & Gulaabs all season ❌
-Guns & Gulaabs season 1 ❌
-
-
-𝙉𝙊𝙏𝙀:-  ʏᴏᴜ ʜᴀᴠᴇ ᴛᴏ ꜰɪʀꜱᴛ ɢᴏᴏɢʟᴇ ᴛʜᴇ ꜱᴘᴇʟʟɪɴɢ ᴏꜰ ᴛʜᴇ ᴍᴏᴠɪᴇ ɴᴀᴍᴇ ᴀɴᴅ ᴛʜᴇɴ ꜱᴇɴᴅ ɪᴛ ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ...."""
+Guns & Gulaabs season 1 ❌"""
 
     SINFO = """
 🫣 You will get your movie only when you join our backup channel😅"""
