@@ -235,7 +235,7 @@ Guns & Gulaabs all season ❌
 Guns & Gulaabs season 1 ❌
 
 
-𝙉𝙊𝙏𝙀:-  ʏᴏᴜ ʜᴀᴠᴇ ᴛᴏ ꜰɪʀꜱᴛ ɢᴏᴏɢʟᴇ ᴛʜᴇ ꜱᴘᴇʟʟɪɴɢ ᴏꜰ ᴛʜᴇ ᴍᴏᴠɪᴇ ɴᴀᴍᴇ ᴀɴᴅ ᴛʜᴇɴ ꜱᴇɴᴅ ɪᴛ ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ ᴡɪᴛʜᴏᴜᴛ :';_"?/-"""
+𝙉𝙊𝙏𝙀:-  ʏᴏᴜ ʜᴀᴠᴇ ᴛᴏ ꜰɪʀꜱᴛ ɢᴏᴏɢʟᴇ ᴛʜᴇ ꜱᴘᴇʟʟɪɴɢ ᴏꜰ ᴛʜᴇ ᴍᴏᴠɪᴇ ɴᴀᴍᴇ ᴀɴᴅ ᴛʜᴇɴ ꜱᴇɴᴅ ɪᴛ ɪɴ ᴛʜᴇ ɢʀᴏᴜᴘ...."""
 
     SINFO = """
 🫣 You will get your movie only when you join our backup channel😅"""
