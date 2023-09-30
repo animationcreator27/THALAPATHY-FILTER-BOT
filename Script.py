@@ -222,15 +222,11 @@ Nᴀᴍᴇ - {}"""
 
 Jailer 2023 ✅
 Jailer hindi ✅
-Jailar in Hindi hd ❌
-Jailer hindi dubbed ❌
 
 🄵🄾🅁 🅆🄴🄱🅂🄴🅁🄸🄴🅂 🎬🎬
 
 Guns & Gulaabs S01E01 ✅
-Guns & Gulaabs S01 hindi ✅
-Guns & Gulaabs all season ❌
-Guns & Gulaabs season 1 ❌"""
+Guns & Gulaabs S01 hindi ✅"""
 
     SINFO = """
 🫣 You will get your movie only when you join our backup channel😅"""
