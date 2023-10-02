@@ -28,7 +28,7 @@ async def start(client, message):
                     InlineKeyboardButton('✪ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url="https://t.me/+zWbNbzlc4EcxMjg1"),
                     InlineKeyboardButton('⌬ Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url='https://t.me/+zWbNbzlc4EcxMjg1')
                 ],[
-                  InlineKeyboardButton('🎬 Lᴀᴛᴇsᴛ Mᴏᴠɪᴇs Cʜᴀɴɴᴇʟ 🎬', callback_data='source')
+                  InlineKeyboardButton('🎬 Lᴀᴛᴇsᴛ Mᴏᴠɪᴇs Cʜᴀɴɴᴇʟ 🎬', url='https://t.me/+KffNbYlF1_diNzRl')
                 ],[
                     InlineKeyboardButton('🆘 𝐂𝐢𝐧𝐞𝐖𝐨𝐨𝐝 𝐇𝐞𝐥𝐩 𝐂𝐞𝐧𝐭𝐞𝐫 🆘', url="t.me/cinewood_support_bot")
                   ]]
@@ -53,7 +53,7 @@ async def start(client, message):
                     InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about')
                 ],[
-                  InlineKeyboardButton('🎬 Lᴀᴛᴇsᴛ Mᴏᴠɪᴇs Cʜᴀɴɴᴇʟ 🎬', callback_data='source')
+                  InlineKeyboardButton('🎬 Lᴀᴛᴇsᴛ Mᴏᴠɪᴇs Cʜᴀɴɴᴇʟ 🎬', url='https://t.me/+KffNbYlF1_diNzRl')
                 ],[
                     InlineKeyboardButton('🆘 𝐂𝐢𝐧𝐞𝐖𝐨𝐨𝐝 𝐇𝐞𝐥𝐩 𝐂𝐞𝐧𝐭𝐞𝐫 🆘', url="t.me/cinewood_support_bot")
                   ]]
@@ -107,7 +107,7 @@ async def start(client, message):
                     InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about')
                 ],[
-                  InlineKeyboardButton('🎬 Lᴀᴛᴇsᴛ Mᴏᴠɪᴇs Cʜᴀɴɴᴇʟ 🎬', callback_data='source')
+                  InlineKeyboardButton('🎬 Lᴀᴛᴇsᴛ Mᴏᴠɪᴇs Cʜᴀɴɴᴇʟ 🎬', url='https://t.me/+KffNbYlF1_diNzRl')
                 ],[
                     InlineKeyboardButton('🆘 𝐂𝐢𝐧𝐞𝐖𝐨𝐨𝐝 𝐇𝐞𝐥𝐩 𝐂𝐞𝐧𝐭𝐞𝐫 🆘', url="t.me/cinewood_support_bot")
                   ]]
