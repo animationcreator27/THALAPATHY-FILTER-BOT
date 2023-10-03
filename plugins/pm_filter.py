@@ -1572,6 +1572,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
         ], [
             InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start")
 
+        ], [
+            InlineKeyboardButton("𝐃𝐞𝐦𝐨 𝐕𝐢𝐝𝐞𝐨", url="t.me/how_to_download_mo_vie/30")
+
             ]]
             await client.edit_message_media(
                 query.message.chat.id, 
